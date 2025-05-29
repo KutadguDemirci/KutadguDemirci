@@ -1,6 +1,6 @@
 # Hi, I’m Kutadgu Demirci
 
-### 🎓 Education & Next Steps
+### 🎓 Education
 **University of Bristol** • BEng Mechanical Engineering ’25  
 **Imperial College London** • MSc Machine Learning & Data Science ’27
 
