@@ -9,7 +9,7 @@
 ### 🔗 Connect with me  
 
 - 📧 Email: [kutadgu.gokalp.demirci@gmail.com](mailto:kutadgu.gokalp.demirci@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kutadgu-demirci/)
+- 💼 LinkedIn: [linkedin.com/in/kutadgu-demirci](https://www.linkedin.com/in/kutadgu-demirci/)
 
 ---
 
